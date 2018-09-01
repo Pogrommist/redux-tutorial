@@ -1,0 +1,4 @@
+.product-entity {
+	display: flex;
+	justify-content: space-between;
+}
